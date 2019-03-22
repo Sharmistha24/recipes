@@ -1,4 +1,4 @@
-# recipes
+# Recipes
 
 To get the frontend running locally:
 
